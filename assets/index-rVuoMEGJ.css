@@ -1,0 +1,1 @@
+body{display:flex;flex-direction:column;justify-content:center;align-items:center;height:97vh}section{flex:1}.borde{margin-top:20vh;background-color:#c8afd6;padding:15px;border:2px solid black;border-radius:10px;text-align:center;width:500px}footer{align-self:flex-end}
