@@ -14,7 +14,7 @@ Ejercicio de una Aplicacion web que al seleccionar tu fecha de nacimiento, te de
 - gh-pages
   
 ## Deploy en GitHub
-- https://dianyasm.github.io/saludator/
+- https://dianyasm.github.io/cumplea-os/
 
 ## Sprint 1
 

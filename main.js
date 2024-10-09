@@ -1,4 +1,4 @@
-import './style.css'
+import './styles.css'
 
 document.getElementById('fecha').addEventListener('change', calcularDias);
 
